@@ -14,8 +14,16 @@
   gap: 5px;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000000;
+  padding: 28px 8%;
+}
+
 main {
-  background-color: blueviolet;
+  background-color: #c1c1f7;
   padding: 10px;
   border-radius: 10px;
   width: 100%;
@@ -51,6 +59,7 @@ main {
   display: flex;
   align-items: center;
 }
+
 button {
   width: 100%;
   text-align: center;
@@ -76,19 +85,21 @@ button {
 
 @keyframes changeColor {
   20% {
-    background-color: #ff0000;
+    background-color: #c1c1f7;
   }
-  50% {
-    background-color: #33ff00;
+  40% {
+    background-color: #9879df;
+  }
+  60% {
+    background-color: #8957ff;
+  }
+  80% {
+    background-color: #9879df;
   }
   100% {
-    background-color: #001eff;
-  }
-  20% {
-    background-color: #ff0000;
+    background-color: #c1c1f7;
   }
 }
-
 main {
   animation: changeColor 8s infinite;
 }
