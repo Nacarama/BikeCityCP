@@ -27,6 +27,6 @@ Para acessar o quiz vá para a pagina de login e use essas informações:<br> us
 # Equipe
 
 - VITOR ESKES - RM555137
-- NATHAN CRAVEIRO - RM555508
-- GABREIEL MATIAS - RM556171
+- NATHAN CRAVEIRO - RM5555
+- GABREIEL MATIAS - RM556001
 
