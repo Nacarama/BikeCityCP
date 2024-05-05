@@ -20,13 +20,13 @@ Este projeto foi concebido para a disciplina de Desenvolvimento Web, "Bikecity" 
 
 # Como acessar
 
-Para acessar repositório clique no link:  
-Para acessar o site clique no link:  <br>
-Para acessar o quiz vá para a pagina de login e use essas informações:<br> usuário: admin@email.com <br>senha: admin123
+Para acessar repositório clique no link: https://github.com/Nacarama/Nacarama.github.io.git
+Para acessar o site clique no link: https://nacarama.github.io/<br>
+Para acessar o quiz vá para a pagina de login e use essas informações:<br> usuário: teste@email.com <br>senha: 12345
 
 # Equipe
 
 - VITOR ESKES - RM555137
-- NATHAN CRAVEIRO - RM5555
-- GABREIEL MATIAS - RM556001
+- NATHAN CRAVEIRO - RM555508
+- GABREIEL MATIAS - RM556717
 
